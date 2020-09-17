@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\AppData\Local\Temporary Projects\AssemblyCSharp\bin\Release\AssemblyCSharp.dll
+C:\Users\TOSHIBA\AppData\Local\Temporary Projects\AssemblyCSharp\bin\Release\AssemblyCSharp.pdb
+C:\Users\TOSHIBA\AppData\Local\Temporary Projects\AssemblyCSharp\obj\Release\AssemblyCSharp.dll
+C:\Users\TOSHIBA\AppData\Local\Temporary Projects\AssemblyCSharp\obj\Release\AssemblyCSharp.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\AssemblyCSharp\AssemblyCSharp\bin\Release\AssemblyCSharp.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\AssemblyCSharp\AssemblyCSharp\bin\Release\AssemblyCSharp.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\AssemblyCSharp\AssemblyCSharp\obj\Release\AssemblyCSharp.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\AssemblyCSharp\AssemblyCSharp\obj\Release\AssemblyCSharp.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\ImandanaPlayer\Debug\AssemblyCSharp.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\ImandanaPlayer\Debug\AssemblyCSharp.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\AssemblyCSharp\AssemblyCSharp\obj\Release\AssemblyCSharp.csprojResolveAssemblyReference.cache
